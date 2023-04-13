@@ -1,7 +1,7 @@
 import requests
 import pytest
 
-TOKEN='6bbdc0063d9ea0fc4aa062db5154c4a7'
+TOKEN='token'
 TRAINER_ID=3691
 GLOBAL_URL = 'https://pokemonbattle.me:9104'
 
