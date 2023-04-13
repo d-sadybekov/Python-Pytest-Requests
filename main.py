@@ -70,6 +70,6 @@ def catchPokemon(pokemonId,token):
     return response
 
 #trainerInf(3691)
-#createPokemon('6bbdc0063d9ea0fc4aa062db5154c4a7')
+#createPokemon('token')
 #modifyPokemon(8969)  
 #catchPokemon(8969)
