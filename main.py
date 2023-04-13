@@ -4,7 +4,7 @@ import random
 #import pytest
 
 GLOBAL_URL = 'https://pokemonbattle.me:9104'
-TOKEN = '6bbdc0063d9ea0fc4aa062db5154c4a7'
+TOKEN = 'token'
 faker = Faker()
 trainerId=3691
 
